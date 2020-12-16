@@ -1,7 +1,7 @@
 <template>
     <div class="home">
         <div>我是主页--羊蝎子修改
-        杨扒皮吃羊蝎子
+        杨扒皮吃羊蝎子,韩屠夫杀羊蝎子
         </div>
     </div>
 </template>
