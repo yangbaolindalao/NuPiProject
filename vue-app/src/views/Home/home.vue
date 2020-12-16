@@ -2,6 +2,7 @@
     <div class="home">
         <div>我是主页--羊蝎子修改</div>
         <span>王向蝎子</span>
+        <span>哈哈</span>
     </div>
 </template>
 
