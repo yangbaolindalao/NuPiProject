@@ -6,7 +6,6 @@
 
         <div>我是主页--羊蝎子修改</div>
         <span>王向蝎子</span>
-
     </div>
 </template>
 
