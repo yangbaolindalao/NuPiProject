@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-        <div>我是主页--杨写</div>
+        <div>我是主页--羊蝎子修改</div>
     </div>
 </template>
 
