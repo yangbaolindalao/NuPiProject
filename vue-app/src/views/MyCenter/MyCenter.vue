@@ -1,5 +1,7 @@
 <template>
-    
+    <div>
+        骨龙一定要抓到  嘿嘿嘿嘿！！！
+    </div>
 </template>
 
 <script>
