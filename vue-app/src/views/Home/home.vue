@@ -1,7 +1,6 @@
 <template>
     <div class="home">
         <div>我是主页--杨写</div>
-
     </div>
 </template>
 
